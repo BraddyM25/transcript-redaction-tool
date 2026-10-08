@@ -1,0 +1,12 @@
+University Interview Transcript - Confidential
+Interviewer: Welcome. Can you state your name and student ID for the record?
+Student: Hello, my name is [NAME_REDACTED] and my student ID is [ID_REDACTED].
+Interviewer: Thank you [NAME_REDACTED]. Who is your primary research advisor this term?
+Student: I am working with Professor [NAME_REDACTED] and Dr. [NAME_REDACTED] on the biology project.
+Interviewer: That sounds exciting. Is there anyone else collaborating with you?
+Student: Yes, [NAME_REDACTED] and [NAME_REDACTED] have been helping with the lab experiments.
+Interviewer: If we need emergency contact information, who should we reach out to?
+Student: You can contact my mother [NAME_REDACTED] [PHONE_REDACTED] or email [EMAIL_REDACTED].
+Student: My brother [NAME_REDACTED] lives nearby in [LOCATION_REDACTED] if she cannot be reached.
+Interviewer: Excellent. [NAME_REDACTED] from student affairs will review your submission shortly.
+Student: Thank you! [NAME_REDACTED] is an absolute grace to have in our department.
